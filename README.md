@@ -12,7 +12,6 @@ Sou um profissional em transição para a área de **DevOps/SRE**, com experiên
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
@@ -28,13 +27,6 @@ Sou um profissional em transição para a área de **DevOps/SRE**, com experiên
 
 ---
 
-### 💼 Projetos em destaque
-
-- [**kube-dev-template**](https://github.com/bBenettiz/kube-dev-template): Template para desenvolvimento e deploy com Kubernetes, Helm e GitHub Actions.
-- [**translationBot**](https://github.com/bBenettiz/translationBot): Bot de tradução com Go e Telegram API.
-- [**extensao-vscode-csharp**](https://github.com/bBenettiz/extensao-vscode-csharp): Extensão VS Code para facilitar dev em C# (usando TypeScript).
-
----
 
 ### 📫 Onde me encontrar
 
@@ -47,11 +39,11 @@ Sou um profissional em transição para a área de **DevOps/SRE**, com experiên
 ---
 
 ### 📌 Sobre mim
-
-- 🧠 Certificação HashiCorp Terraform Associate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="233aecd3-2f8a-46ef-98b0-da23625df2c1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- 🧠 Certificação HashiCorp Terraform Associate 003
 - ⚙️ Experiência com Azure DevOps e GitHub Actions
-- 🔍 Interesse em observabilidade, alta disponibilidade e práticas SRE
-- 🚀 Trabalhando em projetos de infraestrutura como código, monitoramento com Prometheus e automações com Python e Go
+- 🔍 Interesse em observabilidade, alta disponibilidade e práticas DevOps
+- 🚀 Atuo em projetos de automação com CI/CD, focados em infraestrutura como código (Terraform) e observabilidade com Prometheus.
 
 ---
 

@@ -39,12 +39,18 @@ Sou um profissional em transição para a área de **DevOps/SRE**, com experiên
 ---
 
 ### 📌 Sobre mim
-### 📌 Sobre mim
 
-- <a href="https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" alt="Terraform" /> 
-   Certificação HashiCorp Terraform Associate 003
-  </a>
+<!-- Opção 1: Badge estilo flat -->
+[![Terraform Associate](https://img.shields.io/badge/Terraform%20Associate%20003-844FBA?style=flat&logo=terraform&logoColor=white)](https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url)
+
+<!-- Opção 2: Badge estilo "for-the-badge" (maior) -->
+[![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified%3A%20Terraform%20Associate-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url)
+
+<!-- Opção 3: Ícone à esquerda e texto linkado -->
+<a href="https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" alt="Terraform" style="vertical-align:middle; margin-right:4px;" />
+  <b>Certificação HashiCorp Terraform Associate 003</b>
+</a>
 - ⚙️ Experiência com Azure DevOps e GitHub Actions  
 - 🔍 Interesse em observabilidade, alta disponibilidade e práticas DevOps  
 - 🚀 Atuo em projetos de automação com CI/CD, focados em infraestrutura como código (Terraform) e observabilidade com Prometheus.

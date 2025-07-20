@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou o Bruno Benetti</h2>
+<h2 align="left">💻 Bruno Benetti</h2>
 
 Sou um profissional em transição para a área de **DevOps/SRE**, com experiência prática em automação de infraestrutura, observabilidade, pipelines CI/CD e práticas de infraestrutura como código.
 

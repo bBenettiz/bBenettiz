@@ -41,7 +41,7 @@ Sou um profissional em transição para a área de **DevOps/SRE**, com experiên
 ### 📌 Sobre mim
 ### 📌 Sobre mim
 
-- <a href="https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url" target="_blank">
+- <a href="./img/tf-badge">
   <img src="https://images.credly.com/size/340x340/images/f0e4d033-725e-4c2c-b1d8-6c7b796bfc77/image.png" width="20" style="vertical-align:middle" /> Certificação HashiCorp Terraform Associate 003
   </a>
 - ⚙️ Experiência com Azure DevOps e GitHub Actions  

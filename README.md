@@ -70,6 +70,9 @@ I build and operate cloud infrastructure on **Azure** and **OCI** — infrastruc
   <a href="https://www.credly.com/badges/233aecd3-2f8a-46ef-98b0-da23625df2c1/public_url">
     <img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Terraform%20Associate%20(003)-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="HashiCorp Certified: Terraform Associate (003)" />
   </a>
+  <a href="https://www.credly.com/badges/cffa715e-e6e3-4c2d-9ebe-f99a8d65ccae/public_url">
+    <img src="https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate%20(KCNA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes and Cloud Native Associate (KCNA)" />  
+  </a>
 </p>
 
 ---
